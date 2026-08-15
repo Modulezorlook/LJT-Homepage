@@ -11,7 +11,7 @@ description: >-
   Junteng Liu's personal homepage - First-year PhD candidate at HKUST NLP Group.
   Research focuses on natural language processing and machine learning.
 repository: Modulezorlook/LJT-Homepage
-repository_branch: customize-homepage
+repository_branch: master
 logo:
   path: # path to logo file
   height: 50 # height in pixels
@@ -22,7 +22,7 @@ search: true
 
 # Social links
 github: "Vicent0205"
-googlescholar: "https://scholar.google.com/citations?hl=en&amp;user=tbK9jl4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate"
+googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
 twitter: "junteng88716710"
 
 # -----------------------------------------------------------------------------
